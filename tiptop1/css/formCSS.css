@@ -1,0 +1,16 @@
+form{
+    background: lightpink;
+    padding: 15px;
+    border-radius: 15px;
+}
+input, textarea, button{
+    margin: 8px 0;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-hr{
+    border: 1px solid pink;
+}
